@@ -1,0 +1,51 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+}
+
+.nav-img{
+    width: 20.375rem;
+    height: 5.25rem;
+}
+.nav-img img{
+    width: 100%;
+}
+.ui-list{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    list-style-type: none;
+    color: white;
+    padding: 0 .5rem;
+  
+}
+.login-btn{
+    width: 160px;
+    height: 50px;
+    background: linear-gradient(257.05deg, #157AAE 7.76%, #6EC338 84.95%);
+    font-family: Changa;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-radius: .5rem;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.sidebar{
+    height: 4rem;
+    width: 3rem;
+    display: none;
+}
+.sidebar-img{
+    height: 90%;
+    width: 80%;
+}
