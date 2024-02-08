@@ -22,6 +22,15 @@
     padding: 0 .5rem;
   
 }
+.ui-list li{
+    font-family: Changa;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
 .login-btn{
     width: 160px;
     height: 50px;

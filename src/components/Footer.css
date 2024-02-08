@@ -1,0 +1,40 @@
+.footer{
+    background-color: black;
+}
+.footer-top{
+    display:flex;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+}
+.footer-mid{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+}
+.footer-list{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    gap: 1rem;
+    list-style-type: none;
+    color: white;
+    padding: 0 .5rem;
+}
+
+.footer-list li{
+    font-family: Changa;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+
+}
+p{
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem 1rem;
+}
